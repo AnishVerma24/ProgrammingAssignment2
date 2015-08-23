@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## Testing Git operation
 ## functions do
 
 ## Write a short comment describing this function
